@@ -1,0 +1,8 @@
+## Interface: 120100
+## Title: Swiftmend Indicator
+## Notes: Shows a dot on raid/party frames when a unit has a Swiftmend-consumable HoT and Swiftmend is ready
+## Version: 3.0
+## SavedVariables: SwiftmendIndicatorDB
+
+SwiftmendIndicator.lua
+Adapters/DandersFrames.lua
